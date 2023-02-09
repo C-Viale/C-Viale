@@ -1,7 +1,5 @@
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=c-viale&show_icons=true&count_private=true&theme=dark" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viale&layout=compact&langs_count=6&theme=dark" />
-</div>
+<img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=c-viale&show_icons=true&count_private=true&theme=dark" /> 
+<img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viale&layout=compact&langs_count=6&theme=dark" />
 
 ## About:
 I've been a developer for over two years. Currently working as full-stack developer and tech lead.
