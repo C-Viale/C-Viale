@@ -1,8 +1,8 @@
 <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=c-viale&show_icons=true&count_private=true&theme=dark" /> 
-<img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viale&layout=compact&langs_count=6&theme=dark" />
+<img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viale&langs_count=6&theme=dark" />
 
 ## About:
-I've been a developer for over three years. Currently working as full-stack developer.
+I've been a developer for over four years. Currently working as full-stack developer.
 
 
 ## Skills: 
@@ -12,10 +12,15 @@ I've been a developer for over three years. Currently working as full-stack deve
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.js&labelColor=0D1117)&nbsp;
-![Postgres](https://img.shields.io/badge/-Postgres-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117)&nbsp;
-![MSSQL](https://img.shields.io/badge/-MSSQL-0D1117?style=for-the-badge&logo=microsoftsqlserver&labelColor=0D1117)&nbsp;
-![CSharp](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=CSHARP&labelColor=0D1117)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=Dart&labelColor=0D1117)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=Flutter&labelColor=0D1117)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=Rust&labelColor=0D1117)&nbsp;
+![CSharp](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117) 
+![Postgres](https://img.shields.io/badge/-Postgres-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=SQLite&labelColor=0D1117)&nbsp;
+
 
 
 ## Tools: 
