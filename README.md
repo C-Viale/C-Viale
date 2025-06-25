@@ -1,38 +1,49 @@
 ## Hi, I'm Caio!
+
 I'm an experienced developer with 5 years of hands-on experience, focused on building reliable, maintainable and scalable web applications and backend services.
 
-Adept at collaborating in cross-functional teams, following best practices and delivering high-quality solutions that meet business needs. Passionate about continuous learning and staying up to date with emerging technologies. 
+Adept at collaborating in cross-functional teams, following best practices and delivering high-quality solutions that meet business needs. Passionate about continuous learning and staying up to date with emerging technologies.
 
-## Stats
-<p align="center">
-	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=c-viale&show_icons=true&count_private=true&theme=dark" /> 
-	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viale&langs_count=6&theme=dark&layout=compact" />
-</p>
+I'm currently working as a Full-Stack developer and learning languages like C#, Go and Rust.
 
 ## Stack
 
-#### Skills
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.js&labelColor=0D1117)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=Dart&labelColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=Flutter&labelColor=0D1117)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=Rust&labelColor=0D1117)&nbsp;
-![CSharp](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117) 
-![Postgres](https://img.shields.io/badge/-Postgres-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=SQLite&labelColor=0D1117)&nbsp;
+#### Programming
 
-#### Tools: 
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-0D1117?style=for-the-badge&logo=gitlab&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHUb-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Insomina](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117)&nbsp;
-![Azure Devops](https://img.shields.io/badge/Azure%20Devops-0D1117?style=for-the-badge&logo=azure-devops&labelColor=0D1117)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=android-studio&labelColor=0D1117)&nbsp;
+![HTML](https://custom-icon-badges.demolab.com/badge/HTML5-0D1117.svg?logo=html5&style=for-the-badge&color=black)&nbsp;
+![CSS](https://custom-icon-badges.demolab.com/badge/CSS-0D1117.svg?logo=css&style=for-the-badge&color=black)&nbsp;
+![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-0D1117.svg?logo=js&style=for-the-badge&color=black)&nbsp;
+![TypeScript](https://custom-icon-badges.demolab.com/badge/TypeScript-0D1117.svg?logo=typescript&style=for-the-badge&color=black)&nbsp;
+![React](https://custom-icon-badges.demolab.com/badge/React-0D1117.svg?logo=react&style=for-the-badge&color=black)&nbsp;
+![Node.js](https://custom-icon-badges.demolab.com/badge/Node.js-0D1117.svg?logo=node.js&style=for-the-badge&color=black)&nbsp;
+![Bun](https://custom-icon-badges.demolab.com/badge/Bun-0D1117.svg?logo=bun&style=for-the-badge&color=black)&nbsp;
+![Dart](https://custom-icon-badges.demolab.com/badge/Dart-0D1117.svg?logo=dart&style=for-the-badge&color=black)&nbsp;
+![Flutter](https://custom-icon-badges.demolab.com/badge/Flutter-0D1117.svg?logo=flutter&style=for-the-badge&color=black)&nbsp;
+![Rust](https://custom-icon-badges.demolab.com/badge/Rust-0D1117.svg?logo=rust&style=for-the-badge&color=black)&nbsp;
+![Go](https://custom-icon-badges.demolab.com/badge/Go-0D1117.svg?logo=go&style=for-the-badge&color=black)&nbsp;
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-0D1117.svg?logo=cshrp&style=for-the-badge&color=black)&nbsp;
+![Python](https://custom-icon-badges.demolab.com/badge/Python-0D1117.svg?logo=python&style=for-the-badge&color=black)&nbsp;
+
+#### Frameworks
+
+![Vite](https://custom-icon-badges.demolab.com/badge/Vite-0D1117.svg?logo=vite&style=for-the-badge&color=black)&nbsp;
+![Next.js](https://custom-icon-badges.demolab.com/badge/Next.js-0D1117.svg?logo=next.js&style=for-the-badge&color=black)&nbsp;
+![Tauri](https://custom-icon-badges.demolab.com/badge/Tauri-0D1117.svg?logo=tauri&style=for-the-badge&color=black)&nbsp;
+![.NET](https://custom-icon-badges.demolab.com/badge/.NET-0D1117.svg?logo=.net&style=for-the-badge&color=black)&nbsp;
+![ASP.NET](https://custom-icon-badges.demolab.com/badge/ASP.NET-0D1117.svg?logo=.net&style=for-the-badge&color=black)&nbsp;
+
+#### Databases
+
+![Postgres](https://custom-icon-badges.demolab.com/badge/Postgres-0D1117.svg?logo=postgres&style=for-the-badge&color=black)&nbsp;
+![SQLite](https://custom-icon-badges.demolab.com/badge/SQLite-0D1117.svg?logo=sqlite&style=for-the-badge&color=black)&nbsp;
+
+#### Tools
+
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0D1117.svg?logo=vscode&style=for-the-badge&color=black)&nbsp;
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-0D1117.svg?logo=visualstudio&style=for-the-badge&color=black)&nbsp;
+![Git](https://custom-icon-badges.demolab.com/badge/Git-0D1117.svg?logo=git&style=for-the-badge&color=black)&nbsp;
+![GitLab](https://custom-icon-badges.demolab.com/badge/GitLab-0D1117.svg?logo=gitlab&style=for-the-badge&color=black)&nbsp;
+![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-0D1117.svg?logo=github&style=for-the-badge&color=black)&nbsp;
+![Insomnia](https://custom-icon-badges.demolab.com/badge/Insomnia-0D1117.svg?logo=insomnia&style=for-the-badge&color=black)&nbsp;
+![Azure Devops](https://custom-icon-badges.demolab.com/badge/Azure-0D1117.svg?logo=msazure&style=for-the-badge&color=black)&nbsp;
+![Android Studio](https://custom-icon-badges.demolab.com/badge/Android%20Studio-0D1117.svg?logo=android-studio&style=for-the-badge&color=black)&nbsp;
