@@ -1,13 +1,19 @@
-<img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=c-viale&show_icons=true&count_private=true&theme=dark" /> 
-<img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viale&langs_count=6&theme=dark" />
+## Hi, I'm Caio!
+I'm an experienced developer with 5 years of hands-on experience, focused on building reliable, maintainable and scalable web applications and backend services.
 
-## About:
-I've been a developer for over four years. Currently working as full-stack developer.
+Adept at collaborating in cross-functional teams, following best practices and delivering high-quality solutions that meet business needs. Passionate about continuous learning and staying up to date with emerging technologies. 
 
+## Stats
+<p align="center">
+	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=c-viale&show_icons=true&count_private=true&theme=dark" /> 
+	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viale&langs_count=6&theme=dark&layout=compact" />
+</p>
 
-## Skills: 
+## Stack
+
+#### Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117)&nbsp;
@@ -21,9 +27,7 @@ I've been a developer for over four years. Currently working as full-stack devel
 ![Postgres](https://img.shields.io/badge/-Postgres-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=SQLite&labelColor=0D1117)&nbsp;
 
-
-
-## Tools: 
+#### Tools: 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
