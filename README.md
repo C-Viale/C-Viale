@@ -20,7 +20,7 @@ I'm currently working as a Full-Stack developer and learning languages like C#, 
 ![Dart](https://custom-icon-badges.demolab.com/badge/Dart-0D1117.svg?logo=dart&style=for-the-badge&color=black)&nbsp;
 ![Flutter](https://custom-icon-badges.demolab.com/badge/Flutter-0D1117.svg?logo=flutter&style=for-the-badge&color=black)&nbsp;
 ![Rust](https://custom-icon-badges.demolab.com/badge/Rust-0D1117.svg?logo=rust&style=for-the-badge&color=black)&nbsp;
-![C++](https://custom-icon-badges.demolab.com/badge/CPP-0D1117.svg?logo=cpp&style=for-the-badge&color=black)&nbsp;
+![C++](https://custom-icon-badges.demolab.com/badge/C%2B%2B-0D1117.svg?logo=cpp&style=for-the-badge&color=black)&nbsp;
 ![Go](https://custom-icon-badges.demolab.com/badge/Go-0D1117.svg?logo=go&style=for-the-badge&color=black)&nbsp;
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-0D1117.svg?logo=cshrp&style=for-the-badge&color=black)&nbsp;
 ![Python](https://custom-icon-badges.demolab.com/badge/Python-0D1117.svg?logo=python&style=for-the-badge&color=black)&nbsp;
