@@ -20,6 +20,7 @@ I'm currently working as a Full-Stack developer and learning languages like C#, 
 ![Dart](https://custom-icon-badges.demolab.com/badge/Dart-0D1117.svg?logo=dart&style=for-the-badge&color=black)&nbsp;
 ![Flutter](https://custom-icon-badges.demolab.com/badge/Flutter-0D1117.svg?logo=flutter&style=for-the-badge&color=black)&nbsp;
 ![Rust](https://custom-icon-badges.demolab.com/badge/Rust-0D1117.svg?logo=rust&style=for-the-badge&color=black)&nbsp;
+![C++](https://custom-icon-badges.demolab.com/badge/CPP-0D1117.svg?logo=cpp&style=for-the-badge&color=black)&nbsp;
 ![Go](https://custom-icon-badges.demolab.com/badge/Go-0D1117.svg?logo=go&style=for-the-badge&color=black)&nbsp;
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-0D1117.svg?logo=cshrp&style=for-the-badge&color=black)&nbsp;
 ![Python](https://custom-icon-badges.demolab.com/badge/Python-0D1117.svg?logo=python&style=for-the-badge&color=black)&nbsp;
@@ -27,6 +28,7 @@ I'm currently working as a Full-Stack developer and learning languages like C#, 
 #### Frameworks
 
 ![Vite](https://custom-icon-badges.demolab.com/badge/Vite-0D1117.svg?logo=vite&style=for-the-badge&color=black)&nbsp;
+![Astro](https://custom-icon-badges.demolab.com/badge/Astro-0D1117.svg?logo=astro&style=for-the-badge&color=black)&nbsp;
 ![Next.js](https://custom-icon-badges.demolab.com/badge/Next.js-0D1117.svg?logo=next.js&style=for-the-badge&color=black)&nbsp;
 ![Tauri](https://custom-icon-badges.demolab.com/badge/Tauri-0D1117.svg?logo=tauri&style=for-the-badge&color=black)&nbsp;
 ![.NET](https://custom-icon-badges.demolab.com/badge/.NET-0D1117.svg?logo=.net&style=for-the-badge&color=black)&nbsp;
