@@ -49,10 +49,3 @@ I'm currently working as a Full-Stack developer and learning languages like C#, 
 ![Insomnia](https://custom-icon-badges.demolab.com/badge/Insomnia-0D1117.svg?logo=insomnia&style=for-the-badge&color=black)&nbsp;
 ![Azure Devops](https://custom-icon-badges.demolab.com/badge/Azure-0D1117.svg?logo=msazure&style=for-the-badge&color=black)&nbsp;
 ![Android Studio](https://custom-icon-badges.demolab.com/badge/Android%20Studio-0D1117.svg?logo=android-studio&style=for-the-badge&color=black)&nbsp;
-
-## Stats
-
-<p align="center">
-	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=c-viale&show_icons=true&count_private=true&theme=dark" /> 
-	<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viale&langs_count=6&theme=dark&layout=compact" />
-</p>
