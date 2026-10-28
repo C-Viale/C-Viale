@@ -1,6 +1,6 @@
 ## Hi, I'm Caio!
 
-I'm an experienced developer with 5 years of hands-on experience, focused on building reliable, maintainable and scalable web applications and backend services.
+I'm an experienced developer with over 6 years of hands-on experience, focused on building reliable, maintainable and scalable web applications and backend services.
 
 Adept at collaborating in cross-functional teams, following best practices and delivering high-quality solutions that meet business needs. Passionate about continuous learning and staying up to date with emerging technologies.
 
